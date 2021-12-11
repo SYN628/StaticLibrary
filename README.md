@@ -1,0 +1,2 @@
+# StaticLibrary
+a staticlibrary
